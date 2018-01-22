@@ -3,7 +3,7 @@
 > Last Modified: 2018/1/21
 
 ## 官方及社区网站
-- HomeAssistant官网 [https://home-assistant.io/]
+- HomeAssistant官网 https://home-assistant.io/[https://home-assistant.io/]
 - 官方文档 [https://home-assistant.io/docs/]
 - 安装指南 [https://home-assistant.io/docs/installation/]
 - 支持组件查询 [https://home-assistant.io/components/]
