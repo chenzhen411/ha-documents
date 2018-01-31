@@ -1,0 +1,9 @@
+config/*
+config/automations.yaml
+config/certificate.pem
+config/configuration.yaml
+config/customize.yaml
+config/groups.yaml
+config/privkey.pem
+config/scripts.yaml
+config/secrets.yaml
