@@ -18,7 +18,7 @@
 ## 国内爱好者网站
 - HA China <https://www.hachina.io/>
 - HomeAssistant中文文档 <https://home-assistant.cc/>
-- 墨澜技术站<http://cxlwill.cn>
+- 墨澜技术站 <http://cxlwill.cn>
 
 ## 相关博客
 - 从零开始打造个人智能家居系统 by Jun-long
