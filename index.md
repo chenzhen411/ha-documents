@@ -50,3 +50,5 @@
 - 酷家乐户型图 <https://www.kujiale.com/huxing/search>
 - Yaml语法 <http://yaml.org/>
 - js-yaml demo，可用于yaml语法检验 <http://nodeca.github.io/js-yaml/>
+- Raspbian屏幕及触摸旋转 <http://blog.csdn.net/wwb74110/article/details/79095576>
+- xinput矩阵计算 <https://wayland.freedesktop.org/libinput/doc/latest/absolute_axes.html>
